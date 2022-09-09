@@ -1,0 +1,4 @@
+Client
+1.  npx create-next-app i-school-next
+2.  cd .\i-school-next\
+3.  npm i -D typescript @types/react
